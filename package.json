@@ -1,0 +1,20 @@
+{
+  "name": "rickandmortyapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisfalconmx/rickandmortyapi.git"
+  },
+  "keywords": [],
+  "author": "luisfalconmx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisfalconmx/rickandmortyapi/issues"
+  },
+  "homepage": "https://github.com/luisfalconmx/rickandmortyapi#readme"
+}
