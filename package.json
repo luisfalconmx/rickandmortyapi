@@ -6,6 +6,8 @@
   "scripts": {
     "callback": "node src/callback/index.js",
     "promise": "node src/promise/index.js",
+    "async": "node src/async/index.js",
+    "async:challenge": "node src/async/challenge.js",
     "lint": "eslint .",
     "prettier": "prettier --write ."
   },

@@ -1,6 +1,5 @@
 {
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "workbench.colorTheme": "SynthWave '84"
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
